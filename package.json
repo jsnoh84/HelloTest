@@ -1,0 +1,22 @@
+{
+  "name": "hellotest",
+  "version": "1.0.0",
+  "description": "hello NodeJS",
+  "main": "hellotest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsnoh84/HelloTest.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "tester",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jsnoh84/HelloTest/issues"
+  },
+  "homepage": "https://github.com/jsnoh84/HelloTest#readme"
+}
